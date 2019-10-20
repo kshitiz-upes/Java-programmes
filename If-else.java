@@ -23,8 +23,14 @@ public class Solution {
                 {
                     if(N>=2 && N<6){
                     System.out.println("Not Weird");}
-                    else if(N>5 && N<21) {                                                                    System.out.println("Weird");}
-                    else if(N>20)  {                                                                          System.out.println("Not Weird");}
+                    else if(N>5 && N<21) 
+                    {      
+                            System.out.println("Weird");
+                    }
+                    else if(N>20)  
+                    {                                                       
+                        System.out.println("Not Weird");
+                    }
                 }
             }
         }
