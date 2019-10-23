@@ -9,14 +9,14 @@ class pro extends mac
 {
 	pro()
 	{
-	super();
-	System.out.println("kartikay basnsal");
+		super();
+		System.out.println("Hey Git! ");
 	}
 }
 class imp
 {
 	public static void main(String [] args)
 	{
-      pro p = new pro();
+      	 pro p = new pro();
 	}
 }
